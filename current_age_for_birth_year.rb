@@ -1,6 +1,6 @@
-def current_age_for_birth_year(1984)
-  puts sum = 2003 - current_age_for_birth_year
+def current_age_for_birth_year(n)
+  2003 - n
+  end
 
-end
-
-current_age_for_birth_year(1984)
+  current_age_for_birth_year(1984)
+  
